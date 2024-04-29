@@ -1,38 +1,36 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net8.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Mateus\\.nuget\\packages\\": {}
+    "C:\\Users\\gusta\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FATEC\\5º Semestre\\topicos-espec-2\\FatecSisMed\\FatecSisMed\\FatecSisMed.Web\\FatecSisMed.Web.csproj",
+      "projectUniqueName": "C:\\Users\\gusta\\Desktop\\aulas fatec\\5 semestre\\csharp\\atualizado\\FatecSisMed\\FatecSisMed.Web\\FatecSisMed.Web.csproj",
       "projectName": "FatecSisMed.Web",
-      "projectPath": "D:\\FATEC\\5º Semestre\\topicos-espec-2\\FatecSisMed\\FatecSisMed\\FatecSisMed.Web\\FatecSisMed.Web.csproj",
-      "packagesPath": "C:\\Users\\Mateus\\.nuget\\packages\\",
-      "outputPath": "D:\\FATEC\\5º Semestre\\topicos-espec-2\\FatecSisMed\\FatecSisMed\\FatecSisMed.Web\\obj\\",
+      "projectPath": "C:\\Users\\gusta\\Desktop\\aulas fatec\\5 semestre\\csharp\\atualizado\\FatecSisMed\\FatecSisMed.Web\\FatecSisMed.Web.csproj",
+      "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gusta\\Desktop\\aulas fatec\\5 semestre\\csharp\\atualizado\\FatecSisMed\\FatecSisMed.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mateus\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "projectReferences": {}
         }
       },
@@ -48,8 +46,8 @@
       }
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "imports": [
           "net461",
           "net462",
@@ -69,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

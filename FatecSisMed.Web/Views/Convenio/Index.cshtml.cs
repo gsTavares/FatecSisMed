@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace FatecSisMed.Web.Views.Convenio
 {
-    public class CreateConvenioModel : PageModel
+    public class IndexConvenioModel : PageModel
     {
         public void OnGet()
         {
